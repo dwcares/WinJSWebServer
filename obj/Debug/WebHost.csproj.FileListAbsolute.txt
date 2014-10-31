@@ -1,0 +1,6 @@
+c:\Node\WebHost\WebHost\bin\WebHost.dll.config
+c:\Node\WebHost\WebHost\bin\WebHost.dll
+c:\Node\WebHost\WebHost\bin\WebHost.pdb
+c:\Node\WebHost\WebHost\obj\Debug\WebHost.csprojResolveAssemblyReference.cache
+c:\Node\WebHost\WebHost\obj\Debug\WebHost.dll
+c:\Node\WebHost\WebHost\obj\Debug\WebHost.pdb
